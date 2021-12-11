@@ -1,14 +1,14 @@
 {
-    "name": "where-we-go-mock-server",
-    "version": "1.0.0",
-    "description": "mock server",
-    "main": "index.js",
-    "author": "hyesungoh",
-    "license": "MIT",
-    "scripts": {
-        "start": "json-server --watch src/db.json --port 3004"
-    },
-    "dependencies": {
-        "json-server": "^0.17.0"
-    }
+  "name": "where-we-go-mock-server",
+  "version": "1.0.0",
+  "description": "mock server",
+  "main": "index.js",
+  "author": "hyesungoh",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch src/db.json --port 3004"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
