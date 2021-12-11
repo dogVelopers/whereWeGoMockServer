@@ -1,0 +1,11 @@
+{
+    "name": "where-we-go-mock-server",
+    "version": "1.0.0",
+    "description": "mock server",
+    "main": "index.js",
+    "author": "hyesungoh",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
