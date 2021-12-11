@@ -1,0 +1,32 @@
+{
+ "nations": [
+     {
+        "id": 0,
+        "nation_name": "대한민국",
+        "introduce": "소개",
+        "quarantine_policy": "방역방침은 이렇습니다." ,
+        "image_url": ""
+     },
+     {
+        "id": 1,
+        "nation_name": "대한민국",
+        "introduce": "소개",
+        "quarantine_policy": "방역방침은 이렇습니다." ,
+        "image_url": ""
+     },
+     {
+        "id": 2,
+        "nation_name": "대한민국",
+        "introduce": "소개",
+        "quarantine_policy": "방역방침은 이렇습니다." ,
+        "image_url": ""
+     },
+     {
+        "id": 3,
+        "nation_name": "대한민국",
+        "introduce": "소개",
+        "quarantine_policy": "방역방침은 이렇습니다.",
+        "image_url": ""
+     }
+ ]
+}
